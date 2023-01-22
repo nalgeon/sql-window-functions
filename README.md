@@ -1,2 +1,1 @@
-# sql-window-functions
-SQL Window Functions Explained Book
+_SQL Window Functions Explained_ book resources.
